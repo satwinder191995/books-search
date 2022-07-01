@@ -33,7 +33,7 @@ For more information on license types, please reference to this website for addi
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
   ## Website design image
-  ![This is website image](/public/image/books.png)
+  ![This is website image](./client/public/image/books.png)
 
   ## Step by step video link 
   [Video link](https://satwinder-books.herokuapp.com/)
