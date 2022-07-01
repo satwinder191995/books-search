@@ -1,8 +1,8 @@
- # Social Network Api [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
+ # Book Search Engine [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
   ## Description
 
-Social Network Api is a No-Sql app made with mongodb.Where customers can create user accounts and express there thoughts and react on the thoughts of other users.
+ Customer's can search books and save in their account.They can save and delete books anytime , after they create account.
 
   ## Table of Contents
   - [Description](#description)
