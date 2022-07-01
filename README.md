@@ -32,6 +32,9 @@ For more information on license types, please reference to this website for addi
  * Find me on Github:[satwinder191995](https://github.com/satwinder191995)
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
+  ## Website design image
+  ![This is website image](/public/image/budget.png)
+
   ## Step by step video link 
   [Video link](https://drive.google.com/file/d/1uWUzKuCH211BBs8cVn7PEJ57eXPTcimH/view?usp=sharing)
 
