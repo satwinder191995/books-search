@@ -36,5 +36,5 @@ For more information on license types, please reference to this website for addi
   ![This is website image](./client/public/image/books.png)
 
   ## Live app url 
-  [Video link](https://satwinder-books.herokuapp.com/)
+  [Live App](https://satwinder-books.herokuapp.com/)
 
