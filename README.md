@@ -7,18 +7,13 @@
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions](#questions)
 
   ## Installation
 
-  Packages installed are:<br>  1. npm init <br> 2. npm express <br> 3. npm nodemon <br>4. npm mongoose <br>
-
-  ## Usage
-
-Social Network app , where users can post tech realted articles. Users can easily mantain their thoughts and reactions. We can create accounts and update our previous thoughts.
+  Packages installed are:<br>  1. npm init <br> 2. npm express <br> 3. npm nodemon <br>4. npm mongoose <br>5. npm appolo server <br> 6. npm jwt <br>  
 
   ## License
 
